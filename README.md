@@ -180,11 +180,12 @@ Cost-control practices used:
 
 ## 🏷️ Resource Tags
 
-```text
-Environment = Lab
-Project     = CloudLab
-CostCenter  = LAB-001
-Owner       = David
+| Tag | Value |
+|---|---|
+| Environment | Lab |
+| Project | CloudLab |
+| CostCenter | LAB-001 |
+| Owner | David |
 
 ---
 
@@ -193,35 +194,52 @@ Owner       = David
 This project provided hands-on practice in several areas related to the AZ-104 certification.
 
 ### Compute
+
 - Azure Virtual Machines
 - Windows Server
 - IIS
 - VM configuration
 
 ### Networking
+
 - Virtual Networks
 - Subnets
 - Network Security Groups
 - Public and private IP addressing
 
 ### Identity & Governance
+
 - Managed Identity
 - Resource organization
 - Resource tagging
 
 ### Monitoring
+
 - Azure Monitor
 - OpenTelemetry
 - Performance metrics
 - VM alerts
 
 ### Administration
-- Azure Portalhttps://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+- Azure Portal
 - PowerShell
 - Azure Run Command
 - Resource lifecycle management
 - Cost management
-https://chatgpt.com/c/6a8ba636-e838-83e9-8327-97b000bbc540#:~:text=%23%23%20%F0%9F%9A%A7%20Future%20Improvements%0A%0APlanned%20improvements%20for%20future%20versions%20of%20the%20project%3A%0A%0A%2D%20HTTPS%20with%20TLS%20certificate%0A%2D%20Azure%20Application%20Gateway%0A%2D%20Web%20Application%20Firewall%20(WAF)%0A%2D%20Private%20connectivity%0A%2D%20Azure%20Storage%20integration%0A%2D%20Infrastructure%20as%20Code%20with%20Bicep%0A%2D%20Automated%20deployment%0A%0A%2D%2D%2D
 
+---
+
+## 🚧 Future Improvements
+
+Planned improvements for future versions of the project:
+
+- HTTPS with TLS certificate
+- Azure Application Gateway
+- Web Application Firewall (WAF)
+- Private connectivity
+- Azure Storage integration
+- Infrastructure as Code with Bicep
+- Automated deployment
 
 ---
